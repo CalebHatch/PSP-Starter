@@ -10,8 +10,8 @@ I am creating this program to have a test file to use to upload to Git.
 
 I used Visual Studio Code and Python to make this program.
 
+Video Link: https://youtu.be/WRO-Qo2L1fY
+
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* https://pythonawesome.com
